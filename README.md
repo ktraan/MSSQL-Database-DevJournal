@@ -5,7 +5,7 @@ Important database knowledge I want to remember:
 - **SELECT Querying**
 
 
-- **JOINS**
+- **Joins**
 
 
 - **String & Date functions**
