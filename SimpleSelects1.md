@@ -24,6 +24,7 @@ WHERE  PositionID = 3
   * % represents zero or more characters
   * [] is a patteren for single character matching what is inside the brackets(ie. postalcode)
 * BETWEEN (BETWEEN sets a range of values, therefore needing a minimum and maximum value)
+* IS (Used for NULL or NOT NULL)
   
 
 
