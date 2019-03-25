@@ -19,9 +19,13 @@ Important database knowledge I want to remember:
   - [Inner Joins and Left Outer Joins](Joins.md)
 
 - **String & Date functions**
-
+  - [String & Date Functions](String&Date.md)
+  
 - **Subqueries**
-
+  - [Subqueries](Subqueries.md)
+  
 - **Views**
-
+  - [Views](Views.md)
+  
 - **Unions**
+  - [Unions](Unions.md)
