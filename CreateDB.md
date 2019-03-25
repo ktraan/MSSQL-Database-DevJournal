@@ -8,8 +8,8 @@ USE [DatabaseNameChosen]
 GO
 ```
 
-**The script should begin with DROP TABLE statements. This is to clean up the DB for recreation.
-  The DROP TABLE statements should drop in REVERSE ORDER in which is created**
+**The script should begin with DROP TABLE statements. This is to clean up the DB for recreation.**
+**The DROP TABLE statements should drop in REVERSE ORDER in which is created**
   
 ```SQL
 IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Payment')
@@ -18,8 +18,8 @@ IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Client')
     DROP TABLE Client
 ```
 
-**To Create a db table, we use CREATE TABLE statement
-  Note that the order we create and drop tables is important because of how the foreign keys are related**
+**To Create a db table, we use CREATE TABLE statement**
+**Note that the order we create and drop tables is important because of how the foreign keys are related**
   
 ```SQL
 CREATE TABLE Client
