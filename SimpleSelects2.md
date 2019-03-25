@@ -3,7 +3,7 @@
 ## The following will go over Aggregate functions of AVG(), SUM(), COUNT()
 ## Also will go over GROUP BY, ORDER BY, HAVING clauses
 
-> Aggregate functions will return a single value and by doing so will require a GROUP BY clause
+#### Aggregate functions will return a single value and by doing so will require a GROUP BY clause
 
 * AVG() will create an average
 * SUM() will create a sum
