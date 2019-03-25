@@ -16,7 +16,7 @@ Important database knowledge I want to remember:
   - [Simple Selects 1](SimpleSelects1.md) SELECTS, WHERE, Wildcards
   - [Simple Selects 2](SimpleSelects2.md) AVG, SUM, COUNT, GROUP BY, ORDER BY
 - **Joins**
-
+  - [Inner Joins and Left Outer Joins](Joins.md)
 
 - **String & Date functions**
 
