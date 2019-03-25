@@ -2,6 +2,8 @@
 
 Important database knowledge I want to remember:
 
+## SQL
+
 - **SELECT Querying**
 
 
