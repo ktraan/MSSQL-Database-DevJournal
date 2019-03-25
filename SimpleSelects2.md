@@ -42,10 +42,12 @@ SELECT  PaymentTypeID,                              -- Non-aggregate column (btw
 FROM    Payment
 GROUP BY PaymentTypeID
 ORDER BY COUNT(PaymentTypeID) ASC
-
+```
 
 #### The HAVING clause will filter the aggregate values
+
 * It is usually used with a comparison operator (>, >=, =, <, <=)
+
 ```SQL
 Select the average Mark for each studentID. Display the StudentId and their average mark
 SELECT StudentID,
