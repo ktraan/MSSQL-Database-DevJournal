@@ -9,7 +9,7 @@ Important database knowledge I want to remember:
   - [Constraints, Alter Table, Nonclustered indexes](CAN.md)
 
 ## DML - Data Manipulation Language
-
+  - [Insert, Update, Delete](IUD.md)
 ## SQL - Structured Query Language
 
 - **SELECT Querying**
