@@ -31,6 +31,7 @@ Important database knowledge I want to remember:
   - [Unions](Unions.md)
   
 ## Stored Procedures 
+- **Stored Procedures**
   - [Stored Procedure Basiscs](StoredProcedures.md)
   - [Stored Procedures with Transactions](Transactions.md)
   - [Triggers](Triggers.md)
